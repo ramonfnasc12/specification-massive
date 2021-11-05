@@ -1,0 +1,11 @@
+{
+  "name": "Specification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0",
+    "readline": "^1.3.0"
+  }
+}
